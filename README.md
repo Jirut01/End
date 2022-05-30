@@ -1,5 +1,3 @@
-#นี่คือโปรเจคหลักของพวกมึงนะพวกเหี้ย
-
 #How to install project
 
 * clone project
